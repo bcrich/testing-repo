@@ -14,9 +14,10 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
 
-
-        let hillsYposition: CGFloat = 500
-
+        
+        let hillsYposition: CGFloat = 10000
+        
+        
 
     }
 
