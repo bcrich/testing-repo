@@ -17,6 +17,7 @@ class ViewController: UIViewController {
         
         let hillsYposition: CGFloat = 10000
         
+
         
 
     }
